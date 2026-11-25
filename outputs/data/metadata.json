@@ -1,0 +1,19 @@
+{
+  "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "ticker_retrieval_utc": "2026-11-25 05:04 UTC",
+  "price_source": "Yahoo Finance via yfinance (auto_adjust=False, actions=True)",
+  "study_start": "2021-01-01",
+  "study_end_exclusive": "2025-01-01",
+  "benchmark": "^GSPC",
+  "versions": {
+    "python": "3.13.18",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "1.8.0"
+  },
+  "observation_date": "2024-12-31",
+  "weekly_obs": 207,
+  "n_list": 503,
+  "n_retained": 486,
+  "n_common_set": 486
+}

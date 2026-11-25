@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "n_init": 20,
+  "k_ward": {
+    "RR": 5,
+    "RFM": 4
+  },
+  "k_kmeans": {
+    "RR": 5,
+    "RFM": 4
+  },
+  "min_cluster_size_rule": 14,
+  "n_shares": 486,
+  "pca_explained_variance": [
+    0.4579,
+    0.3365
+  ]
+}
